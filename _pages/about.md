@@ -10,7 +10,7 @@ redirect_from:
 
 This is my home.
 
-A data-driven personal website Hello
+My personal website 
 ======
 I am still learning. 
 
