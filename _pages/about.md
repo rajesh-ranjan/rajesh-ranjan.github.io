@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a post-doctoral researcher at the **Dept. of Mechanical & Aerospace Engineering, The Ohio State University**.
+
 This is my home.
 
 My personal website 
