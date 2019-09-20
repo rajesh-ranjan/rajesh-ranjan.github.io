@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Chemical Engineering, BIT Sindri, Jharkhand (India), 2005
+* M.E. in Aerospace Engineering, IISc, Bangalore (India), 2007
+* Ph.D in Fluid Dynamics, JNCASR, Bangalore (India), 2015
 
 Work experience
 ======
