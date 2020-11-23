@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral scholar at **The Ohio State University.**
+
+
+
 
 
 
