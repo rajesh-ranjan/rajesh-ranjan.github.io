@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Fluid Dynamics, JNCASR, Bangalore (India), 2015
+* Ph.D in Fluid Dynamics, JNCASR, Bengaluru (India), 2015
   * Supervisors: Prof. Roddam Narasimha & Prof. S. M. Deshpande
   * Thesis: Compressible DNS studies of Flow past a low-pressure turbine blade
-* M.E. in Aerospace Engineering, IISc, Bangalore (India), 2007
+* M.E. in Aerospace Engineering, IISc, Bengaluru (India), 2007
   * Supervisor: (Late) Prof. P. J. Paul
   * Thesis: Modeling & Simulation of Turbulent Jet Diffusion Flame
 * B.E. in Chemical Engineering, BIT Sindri, Jharkhand (India), 2005
@@ -22,14 +22,12 @@ Education
 Work experience
 ======
 * Fall 2017-Current: Postdoctoral Scholar
-  * The Ohio State University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * The Ohio State University, Columbus (USA)
+* Fall 2015-Fall 2017: Research Associate
+  * JNCASR, Bengaluru (India)
+* 2007-2010: Member of Technical Staff (CFD group)
+  * Tata Computational Research Labs, Pune (India)
+  * Collaborative projects with Boeing, PiaggioAero, NAL etc. 
   
 Skills
 ======
