@@ -8,25 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include **turboachinery flows, unsteady aerodynamics, and stability & transition**. Some key research areas are:
 
-Turbomachinery Flows 
-======
-My primary interest is to use stability analysis tools for understanding of complex flows. The analyses include global stability analysis, adjoint analysis, resolvent and input-output analysis. Since most of these tools require a very large eigenvalue problem to be solved, they are often not employed for practical problems, where the degrees of freedom may be prohibitively high. Thus, I have developed matrix-free 'Mean Flow Perturbation' (MFP) technique which can be used for complex configurations. In this, the linearization of the flow is directly performed within the Navier-Stokes code, and the eigenvalue problem is solved in an alternate way to extract only relevant modes. For high-dimensional problems, I also use ARPACK and SLEPc libraries to extract accurate eigenvalues from a Krylov Subspace.
-
-Stability and Transition 
-======
-My primary interest is to use stability analysis tools for understanding of complex flows. The analyses include global stability analysis, adjoint analysis, resolvent and input-output analysis. Since most of these tools require a very large eigenvalue problem to be solved, they are often not employed for practical problems, where the degrees of freedom may be prohibitively high. Thus, I have developed matrix-free 'Mean Flow Perturbation' (MFP) technique which can be used for complex configurations. In this, the linearization of the flow is directly performed within the Navier-Stokes code, and the eigenvalue problem is solved in an alternate way to extract only relevant modes. For high-dimensional problems, I also use ARPACK and SLEPc libraries to extract accurate eigenvalues from a Krylov Subspace.  
-
-Aircraft Aerodynamics 
-======
-
-
-Theoretical Modeling 
-======
-
-
-Code development & Enabling Tools 
-======
 
 
